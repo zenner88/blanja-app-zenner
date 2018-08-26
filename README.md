@@ -1,1 +1,1 @@
-blanja-app-zenner
+Angular x Swapi
